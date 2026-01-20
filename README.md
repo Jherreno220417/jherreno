@@ -56,15 +56,3 @@ I'm a telecommunications engineer from Colombia with over 6 years of experience 
 - Implemented CI/CD pipelines for automated deployments
 - Provided technical consulting and architecture recommendations
 
-### 📫 How to Reach Me
-
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Professional Email]
-
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
----
-
-💡 *"Building reliable cloud infrastructure, one line of code at a time"*
